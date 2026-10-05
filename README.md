@@ -1,4 +1,4 @@
-# Flying Fish
+# Flying Fish (Рибы.exe)
 
 A 2D arcade mini-game built with Python and Pygame where players catch falling fish using a bucket.
 
@@ -6,9 +6,14 @@ A 2D arcade mini-game built with Python and Pygame where players catch falling f
 
 In Flying Fish, your objective is to catch as many falling fish as possible in your bucket while keeping track of your score and elapsed time. The game features retro-style visuals and sound effects.
 
-This game was inspired by the indie game "The Walking Fish 2".
+This game was inspired by the indie game "The Walking Fish 2", in which you play this as a minigame.
 
-Please note that this application is completely harmless and safe to run. It does not perform any malicious activities, make unauthorized system changes, or damage your computer in any way. It is purely a lightweight, entertaining arcade game.
+Please note that this application is completely harmless and safe to run. It does not perform any malicious activities, make unauthorized system changes, or damage your computer in any way. It is purely a lightweight, entertaining arcade game. I gotta add this note, because i added a little secret which may look harmful while not doing anything at all. (trust me or check the code yourself <3)
+
+##Releases
+
+Release 1.0 will contain the built executable, ready for you to play! You can also make your own, just follow the tutorial below.
+
 
 ## Requirements
 
