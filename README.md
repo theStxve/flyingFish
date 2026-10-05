@@ -10,7 +10,7 @@ This game was inspired by the indie game "The Walking Fish 2", in which you play
 
 Please note that this application is completely harmless and safe to run. It does not perform any malicious activities, make unauthorized system changes, or damage your computer in any way. It is purely a lightweight, entertaining arcade game. I gotta add this note, because i added a little secret which may look harmful while not doing anything at all. (trust me or check the code yourself <3)
 
-##Releases
+## Releases
 
 Release 1.0 will contain the built executable, ready for you to play! You can also make your own, just follow the tutorial below.
 
