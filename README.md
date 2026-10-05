@@ -66,6 +66,8 @@ pip install pyinstaller
 build.bat
 ```
 
+## Gallery
+
 The Minigame in "The Walking Fish 2"
 <img width="2559" height="1439" alt="image" src="https://github.com/user-attachments/assets/29839184-ecee-40c0-b74d-c29e33bc55e9" />
 
