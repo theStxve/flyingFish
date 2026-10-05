@@ -10,9 +10,17 @@ This game was inspired by the indie game "The Walking Fish 2", in which you play
 
 Please note that this application is completely harmless and safe to run. It does not perform any malicious activities, make unauthorized system changes, or damage your computer in any way. It is purely a lightweight, entertaining arcade game. I gotta add this note, because i added a little secret which may look harmful while not doing anything at all. (trust me or check the code yourself <3)
 
+## Controls
+
+- Any key / Left click: Start the game
+- Left Arrow: Move bucket left
+- Right Arrow: Move bucket right
+- Ctrl + Q: Exit game
+- Secret combo: Secret menu
+
 ## Releases
 
-Release 1.0 will contain the built executable, ready for you to play! You can also make your own, just follow the tutorial below.
+Release 1.0 will contain the built executable, ready for you to play! You can also create your own, just follow the tutorial below.
 
 
 ## Requirements
@@ -48,13 +56,6 @@ Start the game by executing:
 ```bash
 python main.py
 ```
-
-## Controls
-
-- Any key / Left click: Start the game
-- Left Arrow: Move bucket left
-- Right Arrow: Move bucket right
-- Ctrl + Q: Exit game
 
 ## Building from Source
 
