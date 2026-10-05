@@ -65,3 +65,13 @@ To package the game as a standalone Windows executable:
 pip install pyinstaller
 build.bat
 ```
+
+The Minigame in "The walking fish 2"
+<img width="2559" height="1439" alt="image" src="https://github.com/user-attachments/assets/29839184-ecee-40c0-b74d-c29e33bc55e9" />
+
+My version
+<img width="1152" height="778" alt="image" src="https://github.com/user-attachments/assets/96db8143-de01-4ffc-83ca-b597174bafdc" />
+
+
+NO COPYRIGHT INFRINGEMENT INTENDED, IF I SHALL REMOVE THIS, PLEASE OPEN AN ISSUE
+I DO NOT OWN ANY RIGHTS TO THIS GAME/ MINIGAME AND ITS A FULLY STANDALONE PROJECT, THE MENTION OF THE NAME "The walking fish 2" IS FOR RECOGNITION PURPOSES ONLY
